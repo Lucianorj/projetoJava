@@ -27,7 +27,8 @@
 		<input type="submit" value="CADASTRAR">
 		<br><br>
 			<input type="submit" value="TESTE">
-		
+			<input type="submit" value="TESTE">
+			<input type="submit" value="TESTE">
 	</form>
 	${msg }
 	
