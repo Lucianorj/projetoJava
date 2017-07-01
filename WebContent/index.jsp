@@ -20,5 +20,7 @@
 	</form>
 	${msg }
 	
+	<a href="Controle?cmd=obterTodos">Listar Produtos</a>
+	
 </body>
 </html>
